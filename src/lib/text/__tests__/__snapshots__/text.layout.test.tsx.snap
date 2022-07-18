@@ -1,0 +1,667 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Should render when variant=body1, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-body1 emotion-0 emotion-1"
+  >
+    text
+  </p>
+</div>
+`;
+
+exports[`Text Should render when variant=body1, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-body1 emotion-0 emotion-1"
+  >
+    text
+  </p>
+</div>
+`;
+
+exports[`Text Should render when variant=body2, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-body2 emotion-0 emotion-1"
+  >
+    text
+  </p>
+</div>
+`;
+
+exports[`Text Should render when variant=body2, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-body2 emotion-0 emotion-1"
+  >
+    text
+  </p>
+</div>
+`;
+
+exports[`Text Should render when variant=button, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <span
+    class="MuiTypography-root MuiTypography-button emotion-0 emotion-1"
+  >
+    text
+  </span>
+</div>
+`;
+
+exports[`Text Should render when variant=button, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <span
+    class="MuiTypography-root MuiTypography-button emotion-0 emotion-1"
+  >
+    text
+  </span>
+</div>
+`;
+
+exports[`Text Should render when variant=caption, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <span
+    class="MuiTypography-root MuiTypography-caption emotion-0 emotion-1"
+  >
+    text
+  </span>
+</div>
+`;
+
+exports[`Text Should render when variant=caption, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <span
+    class="MuiTypography-root MuiTypography-caption emotion-0 emotion-1"
+  >
+    text
+  </span>
+</div>
+`;
+
+exports[`Text Should render when variant=h1, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 300;
+  font-size: 6rem;
+  line-height: 1.167;
+  letter-spacing: -0.01562em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h1
+    class="MuiTypography-root MuiTypography-h1 emotion-0 emotion-1"
+  >
+    text
+  </h1>
+</div>
+`;
+
+exports[`Text Should render when variant=h1, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 300;
+  font-size: 6rem;
+  line-height: 1.167;
+  letter-spacing: -0.01562em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h1
+    class="MuiTypography-root MuiTypography-h1 emotion-0 emotion-1"
+  >
+    text
+  </h1>
+</div>
+`;
+
+exports[`Text Should render when variant=h2, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 300;
+  font-size: 3.75rem;
+  line-height: 1.2;
+  letter-spacing: -0.00833em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h2
+    class="MuiTypography-root MuiTypography-h2 emotion-0 emotion-1"
+  >
+    text
+  </h2>
+</div>
+`;
+
+exports[`Text Should render when variant=h2, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 300;
+  font-size: 3.75rem;
+  line-height: 1.2;
+  letter-spacing: -0.00833em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h2
+    class="MuiTypography-root MuiTypography-h2 emotion-0 emotion-1"
+  >
+    text
+  </h2>
+</div>
+`;
+
+exports[`Text Should render when variant=h3, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 3rem;
+  line-height: 1.167;
+  letter-spacing: 0em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h3
+    class="MuiTypography-root MuiTypography-h3 emotion-0 emotion-1"
+  >
+    text
+  </h3>
+</div>
+`;
+
+exports[`Text Should render when variant=h3, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 3rem;
+  line-height: 1.167;
+  letter-spacing: 0em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h3
+    class="MuiTypography-root MuiTypography-h3 emotion-0 emotion-1"
+  >
+    text
+  </h3>
+</div>
+`;
+
+exports[`Text Should render when variant=h4, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 2.125rem;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h4
+    class="MuiTypography-root MuiTypography-h4 emotion-0 emotion-1"
+  >
+    text
+  </h4>
+</div>
+`;
+
+exports[`Text Should render when variant=h4, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 2.125rem;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h4
+    class="MuiTypography-root MuiTypography-h4 emotion-0 emotion-1"
+  >
+    text
+  </h4>
+</div>
+`;
+
+exports[`Text Should render when variant=h5, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.334;
+  letter-spacing: 0em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h5
+    class="MuiTypography-root MuiTypography-h5 emotion-0 emotion-1"
+  >
+    text
+  </h5>
+</div>
+`;
+
+exports[`Text Should render when variant=h5, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.334;
+  letter-spacing: 0em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Rockwell,Verdana,Arial,san-serif;
+}
+
+<div>
+  <h5
+    class="MuiTypography-root MuiTypography-h5 emotion-0 emotion-1"
+  >
+    text
+  </h5>
+</div>
+`;
+
+exports[`Text Should render when variant=h6, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  letter-spacing: 0.0075em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <h6
+    class="MuiTypography-root MuiTypography-h6 emotion-0 emotion-1"
+  >
+    text
+  </h6>
+</div>
+`;
+
+exports[`Text Should render when variant=h6, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  letter-spacing: 0.0075em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <h6
+    class="MuiTypography-root MuiTypography-h6 emotion-0 emotion-1"
+  >
+    text
+  </h6>
+</div>
+`;
+
+exports[`Text Should render when variant=inherit, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-inherit emotion-0 emotion-1"
+  >
+    text
+  </p>
+</div>
+`;
+
+exports[`Text Should render when variant=inherit, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-inherit emotion-0 emotion-1"
+  >
+    text
+  </p>
+</div>
+`;
+
+exports[`Text Should render when variant=overline, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 2.66;
+  letter-spacing: 0.08333em;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <span
+    class="MuiTypography-root MuiTypography-overline emotion-0 emotion-1"
+  >
+    text
+  </span>
+</div>
+`;
+
+exports[`Text Should render when variant=overline, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 2.66;
+  letter-spacing: 0.08333em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <span
+    class="MuiTypography-root MuiTypography-overline emotion-0 emotion-1"
+  >
+    text
+  </span>
+</div>
+`;
+
+exports[`Text Should render when variant=subtitle1, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.75;
+  letter-spacing: 0.00938em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <h6
+    class="MuiTypography-root MuiTypography-subtitle1 emotion-0 emotion-1"
+  >
+    text
+  </h6>
+</div>
+`;
+
+exports[`Text Should render when variant=subtitle1, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.75;
+  letter-spacing: 0.00938em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <h6
+    class="MuiTypography-root MuiTypography-subtitle1 emotion-0 emotion-1"
+  >
+    text
+  </h6>
+</div>
+`;
+
+exports[`Text Should render when variant=subtitle2, italicized=false, bold=false, and underlined=false 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.57;
+  letter-spacing: 0.00714em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <h6
+    class="MuiTypography-root MuiTypography-subtitle2 emotion-0 emotion-1"
+  >
+    text
+  </h6>
+</div>
+`;
+
+exports[`Text Should render when variant=subtitle2, italicized=true, bold=true, and underlined=true 1`] = `
+.emotion-1 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.57;
+  letter-spacing: 0.00714em;
+  font-weight: 600;
+  font-style: italic;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <h6
+    class="MuiTypography-root MuiTypography-subtitle2 emotion-0 emotion-1"
+  >
+    text
+  </h6>
+</div>
+`;

@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner should render successfully 1`] = `
+@keyframes animation-0 {
+  from, 0%, 40%, 100%, to {
+    -webkit-transform: scaleY(0.4);
+    -moz-transform: scaleY(0.4);
+    -ms-transform: scaleY(0.4);
+    transform: scaleY(0.4);
+  }
+
+  20% {
+    -webkit-transform: scaleY(1.0);
+    -moz-transform: scaleY(1.0);
+    -ms-transform: scaleY(1.0);
+    transform: scaleY(1.0);
+  }
+}
+
+@keyframes animation-0 {
+  from, 0%, 40%, 100%, to {
+    -webkit-transform: scaleY(0.4);
+    -moz-transform: scaleY(0.4);
+    -ms-transform: scaleY(0.4);
+    transform: scaleY(0.4);
+  }
+
+  20% {
+    -webkit-transform: scaleY(1.0);
+    -moz-transform: scaleY(1.0);
+    -ms-transform: scaleY(1.0);
+    transform: scaleY(1.0);
+  }
+}
+
+@keyframes animation-0 {
+  from, 0%, 40%, 100%, to {
+    -webkit-transform: scaleY(0.4);
+    -moz-transform: scaleY(0.4);
+    -ms-transform: scaleY(0.4);
+    transform: scaleY(0.4);
+  }
+
+  20% {
+    -webkit-transform: scaleY(1.0);
+    -moz-transform: scaleY(1.0);
+    -ms-transform: scaleY(1.0);
+    transform: scaleY(1.0);
+  }
+}
+
+@keyframes animation-0 {
+  from, 0%, 40%, 100%, to {
+    -webkit-transform: scaleY(0.4);
+    -moz-transform: scaleY(0.4);
+    -ms-transform: scaleY(0.4);
+    transform: scaleY(0.4);
+  }
+
+  20% {
+    -webkit-transform: scaleY(1.0);
+    -moz-transform: scaleY(1.0);
+    -ms-transform: scaleY(1.0);
+    transform: scaleY(1.0);
+  }
+}
+
+@keyframes animation-0 {
+  from, 0%, 40%, 100%, to {
+    -webkit-transform: scaleY(0.4);
+    -moz-transform: scaleY(0.4);
+    -ms-transform: scaleY(0.4);
+    transform: scaleY(0.4);
+  }
+
+  20% {
+    -webkit-transform: scaleY(1.0);
+    -moz-transform: scaleY(1.0);
+    -ms-transform: scaleY(1.0);
+    transform: scaleY(1.0);
+  }
+}
+
+.emotion-0 {
+  margin: 100px auto;
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  font-size: 10px;
+  z-index: 20;
+}
+
+.emotion-1 {
+  background-color: #B22028;
+  height: 100%;
+  width: 6px;
+  margin: 0 2px;
+  display: inline-block;
+  -webkit-animation: animation-0 1.2s infinite ease-in-out;
+  animation: animation-0 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -1.2s;
+  animation-delay: -1.2s;
+}
+
+.emotion-2 {
+  background-color: #B22028;
+  height: 100%;
+  width: 6px;
+  margin: 0 2px;
+  display: inline-block;
+  -webkit-animation: animation-0 1.2s infinite ease-in-out;
+  animation: animation-0 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -1.0999999999999999s;
+  animation-delay: -1.0999999999999999s;
+}
+
+.emotion-3 {
+  background-color: #B22028;
+  height: 100%;
+  width: 6px;
+  margin: 0 2px;
+  display: inline-block;
+  -webkit-animation: animation-0 1.2s infinite ease-in-out;
+  animation: animation-0 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -1s;
+  animation-delay: -1s;
+}
+
+.emotion-4 {
+  background-color: #B22028;
+  height: 100%;
+  width: 6px;
+  margin: 0 2px;
+  display: inline-block;
+  -webkit-animation: animation-0 1.2s infinite ease-in-out;
+  animation: animation-0 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -0.8999999999999999s;
+  animation-delay: -0.8999999999999999s;
+}
+
+.emotion-5 {
+  background-color: #B22028;
+  height: 100%;
+  width: 6px;
+  margin: 0 2px;
+  display: inline-block;
+  -webkit-animation: animation-0 1.2s infinite ease-in-out;
+  animation: animation-0 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -0.7999999999999999s;
+  animation-delay: -0.7999999999999999s;
+}
+
+<div>
+  <div
+    class="emotion-0"
+  >
+    <div
+      class="emotion-1"
+    />
+    <div
+      class="emotion-2"
+    />
+    <div
+      class="emotion-3"
+    />
+    <div
+      class="emotion-4"
+    />
+    <div
+      class="emotion-5"
+    />
+  </div>
+</div>
+`;

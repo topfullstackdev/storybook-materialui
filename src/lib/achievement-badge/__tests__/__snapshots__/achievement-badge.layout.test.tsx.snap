@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AchievementBadge should render successfully 1`] = `
+.emotion-0 {
+  text-align: left;
+}
+
+.emotion-2 {
+  height: 48px;
+  vertical-align: middle;
+}
+
+<div>
+  <div
+    class="emotion-0 emotion-1"
+  >
+    <img
+      alt="Example"
+      class="emotion-2 emotion-3"
+      src="__mock__/fileMock.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`AchievementBadge should render with name 1`] = `
+.emotion-0 {
+  text-align: center;
+}
+
+.emotion-2 {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 5px;
+}
+
+.emotion-4 {
+  width: 100%;
+}
+
+.emotion-7 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+<div>
+  <div
+    class="emotion-0 emotion-1"
+  >
+    <img
+      alt="Example"
+      class="emotion-2 emotion-3"
+      data-cy="CP Badge Image:Example"
+      src="__mock__/fileMock.png"
+    />
+    <div
+      class="emotion-4 emotion-5"
+      data-cy="CP Name:Example"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-caption emotion-6 emotion-7"
+      >
+        Example
+         
+      </span>
+    </div>
+  </div>
+</div>
+`;

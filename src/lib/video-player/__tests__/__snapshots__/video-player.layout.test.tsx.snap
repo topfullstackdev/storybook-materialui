@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoPlayer should render successfully 1`] = `
+<div>
+  <video>
+    <track
+      default=""
+      kind="captions"
+    />
+  </video>
+</div>
+`;

@@ -1,0 +1,391 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text border color should be BLUE  when color is Color.BLUE 1`] = `
+.emotion-0 {
+  width: 100%;
+}
+
+.emotion-2 {
+  color: rgb(0, 161, 222);
+  border: 1px solid rgb(0, 161, 222);
+  width: 100%;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  color: rgb(0, 161, 222);
+}
+
+.emotion-3 {
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+.emotion-4 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.emotion-7 {
+  font-size: 12px;
+}
+
+<div>
+  <div
+    class="MuiBox-root emotion-0"
+  >
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-3"
+        data-cy="Count:31"
+      >
+        31
+      </span>
+      <span
+        class="MuiBox-root emotion-4"
+        data-cy="Label:Skills Developing"
+      >
+        Skills Developing
+      </span>
+    </div>
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Marketing
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Sales
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Appraisals
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Text children should be display in the component when children is existing 1`] = `
+.emotion-0 {
+  width: 100%;
+}
+
+.emotion-2 {
+  color: rgb(0, 161, 222);
+  border: 1px solid rgb(0, 161, 222);
+  width: 100%;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  color: rgb(0, 161, 222);
+}
+
+.emotion-3 {
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+.emotion-4 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.emotion-7 {
+  font-size: 12px;
+}
+
+<div>
+  <div
+    class="MuiBox-root emotion-0"
+  >
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-3"
+        data-cy="Count:31"
+      >
+        31
+      </span>
+      <span
+        class="MuiBox-root emotion-4"
+        data-cy="Label:Skills Developing"
+      >
+        Skills Developing
+      </span>
+    </div>
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Marketing
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Sales
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Appraisals
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Text should render successfully 1`] = `
+.emotion-0 {
+  width: 100%;
+}
+
+.emotion-2 {
+  color: rgb(0, 161, 222);
+  border: 1px solid rgb(0, 161, 222);
+  width: 100%;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  color: rgb(0, 161, 222);
+}
+
+.emotion-3 {
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+.emotion-4 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.emotion-7 {
+  font-size: 12px;
+}
+
+<div>
+  <div
+    class="MuiBox-root emotion-0"
+  >
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-3"
+        data-cy="Count:31"
+      >
+        31
+      </span>
+      <span
+        class="MuiBox-root emotion-4"
+        data-cy="Label:Skills Developing"
+      >
+        Skills Developing
+      </span>
+    </div>
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Marketing
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Sales
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Appraisals
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Text statLabel should be in the component, fontsize should be 14px 1`] = `
+.emotion-0 {
+  width: 100%;
+}
+
+.emotion-2 {
+  color: rgb(0, 161, 222);
+  border: 1px solid rgb(0, 161, 222);
+  width: 100%;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  color: rgb(0, 161, 222);
+}
+
+.emotion-3 {
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+.emotion-4 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.emotion-7 {
+  font-size: 12px;
+}
+
+<div>
+  <div
+    class="MuiBox-root emotion-0"
+  >
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-3"
+        data-cy="Count:31"
+      >
+        31
+      </span>
+      <span
+        class="MuiBox-root emotion-4"
+        data-cy="Label:Skills Developing"
+      >
+        Skills Developing
+      </span>
+    </div>
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Marketing
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Sales
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Appraisals
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Text statNumber should be in the component, fontsize should be 32px 1`] = `
+.emotion-0 {
+  width: 100%;
+}
+
+.emotion-2 {
+  color: rgb(0, 161, 222);
+  border: 1px solid rgb(0, 161, 222);
+  width: 100%;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  color: rgb(0, 161, 222);
+}
+
+.emotion-3 {
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+.emotion-4 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.emotion-7 {
+  font-size: 12px;
+}
+
+<div>
+  <div
+    class="MuiBox-root emotion-0"
+  >
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-3"
+        data-cy="Count:31"
+      >
+        31
+      </span>
+      <span
+        class="MuiBox-root emotion-4"
+        data-cy="Label:Skills Developing"
+      >
+        Skills Developing
+      </span>
+    </div>
+    <div
+      class="emotion-1 MuiBox-root emotion-2"
+    >
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Marketing
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Advanced Sales
+      </span>
+      <span
+        class="MuiBox-root emotion-7"
+      >
+        Appraisals
+      </span>
+    </div>
+  </div>
+</div>
+`;
